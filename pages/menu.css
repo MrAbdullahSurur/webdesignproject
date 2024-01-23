@@ -1,0 +1,77 @@
+.container {
+    display: flex;
+    align-items: center;
+  }
+  
+  form {
+    /* form styles go here */
+    
+  }
+  
+  .menumovie{
+    margin-top: 450px;
+    margin-left: 865px;
+    opacity: 0;
+
+  }
+  .menutv{
+    margin-top: 485px;
+    margin-left: 137px;
+    opacity: 0;
+  }
+  .ir1{
+    margin-top: 800px;
+    margin-left: 280px;
+    opacity: 0;
+
+  }
+  .ir2{
+    margin-top: 800px;
+    margin-left: 620px;
+    opacity: 0;
+
+  }
+  .ir3{
+    margin-top: 800px;
+    margin-left: 620px;
+    opacity: 0;
+    
+  }
+  .menup{
+    margin-top: 48px;
+    margin-left: 1802px;
+    opacity: 0;
+  }
+  .sv{
+    margin-top: 845px;
+    margin-left: 290px;
+    opacity: 0;
+  }
+  .wv{
+    margin-top: 845px;
+    margin-left: 610px;
+    opacity: 0;
+  }
+  .fs{
+    margin-top: 845px;
+    margin-left: 610px;
+    opacity: 0;
+  }
+   .mm{
+    margin-top: 900px;
+    margin-left: 160px;
+    opacity: 0;
+
+   }
+
+   .utv{
+    margin-top: 25px;
+    margin-left:900px;
+    opacity: 0;
+   }
+   .movip{
+    margin-top: 790px;
+    margin-left:1070px;
+    opacity: 0;
+
+   }
